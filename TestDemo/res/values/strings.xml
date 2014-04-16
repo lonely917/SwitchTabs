@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestDemo</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section4">Section 4</string>
+    <string name="action_settings">Settings</string>
+	<string name="action_clean_cache">清空缓存</string>
+	<string name="hotel_name">The Peninsula Chicago</string>
+	<string name="street_address">108 East Superior Street</string>
+	<string name="nightly_rate">172.84</string>
+	<string name="loading">正在努力加载中……</string>
+	<string name="note">再按一次返回键退出应用！</string>
+	<string name="clean_cache_success">成功清除缓存！</string>
+
+</resources>
